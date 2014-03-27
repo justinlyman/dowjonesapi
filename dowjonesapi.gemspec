@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["justinlyman@gmail.com"]
   spec.description   = 'Query the Dow Jones API'
   spec.summary       = 'Easy way to interact with the Dow Jones API'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/justinlyman/dowjonesapi.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
