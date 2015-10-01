@@ -1,3 +1,5 @@
+The Dow Jones Beta API service has been shut down, do not try and use this gem, your effort will be futile.
+
 # Dowjonesapi
 
 This gem is a ruby wrapper for the Dow Jones API.  Currently only the Quotes portion of the API has been implemented.
