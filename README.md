@@ -1,4 +1,4 @@
-The Dow Jones Beta API service has been shut down, do not try and use this gem, your effort will be futile.
+The Dow Jones Beta API service has been shut down, do not try and use this gem, your efforts will be futile.
 
 # Dowjonesapi
 
